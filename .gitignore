@@ -4,6 +4,7 @@
 # Ignore virtual environment
 Lib/
 Scripts/
+venv/
 
 # Ignore system-specific files
 .DS_Store
